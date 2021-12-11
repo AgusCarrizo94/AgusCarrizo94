@@ -1,6 +1,6 @@
 - 👋 Hi Everyone!!! 
 
-- I’m Agustin Carrizo Del Rio. I'm a Mechanical Engineer student finishing my studies in the Universidad Nacional de Tucumán and currently working in a 
+- I’m Agustin Carrizo Del Rio. I'm a Mechanical Engineer student finishing my studies in the Universidad Nacional de Tucumán. Currently working in a 
   tech company as an IT Consultant and also working with personal projects as a frelancer web developer.
   I am always learning new things in the mechanical engineer field and in the tech and software fields.
 
