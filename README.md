@@ -24,13 +24,7 @@ I love building scalable applications, designing robust architectures, and autom
 - API Design, Scalable Distributed Systems  
 
 ### 🤖 **AI & ML**  
-- Hugging Face (NLP, Transformers)  
-
----
-
-## 📈 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgusCarrizo94&show_icons=true&theme=radical)  
+- Hugging Face (NLP, Transformers) 
 
 ---
 
