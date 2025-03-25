@@ -1,7 +1,7 @@
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Agustin
 
-🚀 **Software Engineer | Cloud & DevOps Enthusiast | Full-Stack Developer**  
+🚀 **Software Engineer | Full-Stack Developer | Cloud & DevOps Engineer**  
 
 I love building scalable applications, designing robust architectures, and automating workflows. Passionate about cloud technologies, DevOps, and modern web development.  
 
@@ -30,7 +30,7 @@ I love building scalable applications, designing robust architectures, and autom
 
 ## 📈 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgusCarrizo94&show_icons=true&theme=radical)  
 
 ---
 
